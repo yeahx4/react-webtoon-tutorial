@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Viewer extends Component {
+class Viewer extends Component{
     render(){
         return (
             <div>Viewer</div>
